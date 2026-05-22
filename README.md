@@ -1,4 +1,4 @@
-````markdown
+
 # Hangman Game 🎮
 
 A simple text-based Hangman game built using Python where the player guesses a hidden word letter by letter.
