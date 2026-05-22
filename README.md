@@ -3,20 +3,20 @@
 
 A simple text-based Hangman game built using Python where the player guesses a hidden word letter by letter.
 
-## Features
+# Features
 - Random word selection
 - 6 incorrect guess limit
 - Console-based gameplay
 
-## Technologies Used
+#Technologies Used
 - Python 3
 - VS Code
 
-## Run the Project
+# Run the Project
 ```bash
 python hangman.py
 ```
 
-## Author
+# Author
 Sanvika Samala
 ````
